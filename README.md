@@ -22,7 +22,7 @@ This project demonstrates clean UI design, responsive layouts, and interactive c
 - ⚛️ **React** – Frontend library  
 - 🎨 **Tailwind CSS** – Styling framework  
 - 🧩 **Lucide React** – Icons  
-- ⚡ **Vite** – Build tool (if used)  
+- ⚡ **Vite** – Build tool  
 - 📱 **Responsive Design** – Works on all screen sizes
 
 ---
@@ -36,7 +36,6 @@ This project demonstrates clean UI design, responsive layouts, and interactive c
 4. Run the development server: npm run dev
 5. Open in browser: http://localhost:5173/
    
-👋 Tushar Chorge
-💼 Java Developer | React
+👋 Tushar Chorge- Java Developer
 📧 tusharchorge36@gmail.com
 🌐 Portfolio- https://tusharchorge36.wixsite.com/portfolio-hub
